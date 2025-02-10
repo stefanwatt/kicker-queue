@@ -14,7 +14,6 @@ export default {
   plugins: [
     typography,
     catppuccin({
-      prefix: "ctp",
       defaultFlavour: "mocha"
     }),
     daisyui
